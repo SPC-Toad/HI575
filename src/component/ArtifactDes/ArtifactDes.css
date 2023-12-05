@@ -1,0 +1,30 @@
+.artifact-container {
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    min-height: 30vh;
+}
+
+.artifact-image {
+    max-width: 40rem;
+    object-fit: cover;
+}
+
+.artifact-rhs {
+    width: 50%;
+    margin-left: 3rem;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.6;
+}
+
+.artifact-title {
+    margin-bottom: 1rem;
+}
+
+.artifact-description {
+    line-height: 1.6;
+}

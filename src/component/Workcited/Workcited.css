@@ -1,0 +1,15 @@
+.workcited-container {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 100vh;
+    justify-content: center;
+    align-items: cen;
+}
+
+.workcited-title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    line-height:6;
+}

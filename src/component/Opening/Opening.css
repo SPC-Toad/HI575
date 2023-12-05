@@ -1,0 +1,19 @@
+.opening-container {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 100vh;
+    justify-content: center;
+    align-items: cen;
+}
+
+.opening-title {
+    margin-left: 2%;
+}
+
+.opening-paragraph {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    line-height: 1.6;
+}
