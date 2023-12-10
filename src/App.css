@@ -5,8 +5,9 @@
   --color-sub-font: #E9E9E9;
   --color-button: #FF1414;
   --title-font-size: 4em; /* 40px */
-  --header-topic-font-size: 1.3em; /* 32px */
-  --header2-topic-font-size: 2.5em; /* 32px */
+  --header-topic-font-size: 1.3em; 
+  --header2-topic-font-size: 2.5em; 
+  --header3-topic-font-size: 2em; 
   --normal-text-font-size: 1em; /* 16px */
   --sub-text-font-size: 0.875em; /* 14px */
   --button-text-font-size: 1.125em; /* 18px */
@@ -28,4 +29,34 @@ a {
   font-size: var(--normal-text-font-size);
   font-family: Arial, sans-serif;
   font-weight: var(--normal-weight-font);
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 4rem;
+}
+
+.content-title {
+  padding-top: 6rem;
+  padding-bottom: 2rem;
+  font-size: var(--header2-topic-font-size);
+  font-weight: var(--bold-font);
+  letter-spacing: var( --bottom-border);
+}
+
+.content {
+  padding-top: 2rem;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 4rem;
+  flex-direction: column;
+  align-items: center;
+}
+
+.spacer {
+  height: 3rem;
 }
