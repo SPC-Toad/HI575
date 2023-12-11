@@ -1,6 +1,5 @@
 import React from 'react'
 import ArtifactDes from '../ArtifactDes/ArtifactDes'
-import './Acts.css'
 
 import Navbar from '../Navbar/Navbar';
 import Button from '../Button/Button';

@@ -1,5 +1,4 @@
 import React from 'react'
-import './FirstRedScare.css'
 
 import Navbar from '../Navbar/Navbar';
 import Button from '../Button/Button';
