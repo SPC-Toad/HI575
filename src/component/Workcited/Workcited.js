@@ -15,7 +15,7 @@ function Workcited() {
           </p>
           <br />
           <p className='opening-paragraph'>
-            ‌“U.S. History, Americans and the Great War, 1914-1919, Demobilization and Its Difficult Aftermath.” n.d. OpenEd CUNY. Accessed December 1, 2023. https://opened.cuny.edu/courseware/lesson/430/student/?section=2.
+          Greene, Sidney. 1919. Review of Step by Step Greene. Wikimedia Commons. New York Evening Telegram. November 1, 1919. https://commons.wikimedia.org/wiki/File:Step_by_step_greene.jpg.
           </p>
           <br />
           <p className='opening-paragraph'>
