@@ -16,7 +16,7 @@ function Escalation() {
       <div className='content'>
         <ArtifactDes 
           image={chaos}
-          title={'Step by Step'}
+          title={'Steps to Uncertainty'}
           description={<p>&nbsp;&nbsp;&nbsp;&nbsp;The first stair represents the aftermath of World War I, marked by one of the largest labor strikes in the country. Leaving unemployed individuals adrift. <pre/>&nbsp;&nbsp;&nbsp;&nbsp;Second stair portrays the riots and racial attacks that swept Chicago when some laborers discovered their jobs had been taken by people of color, which fueled the riots even more. The unemployment of police officers further facilitated looting until state guards intervened to quell the riots. <br />&nbsp;&nbsp;&nbsp;&nbsp;Third stair depicts the development of communism, which instilled fear in the U.S. government. There was concern that American society might descend into chaos due to communist infiltrators, as evidenced by events like the 1919 Wall Street bombing and attempted assassinations of government officials. <br />&nbsp;&nbsp;&nbsp;&nbsp;Ultimately the question mark illustrates this fear, symbolizing the U.S. government’s apprehension about the potential disruption of American ideology and order. This figure encapsulates the fear that the US government had for the ‘next step’ in the midst of consecutive chaotic events.</p>}
           citation={'Greene, Sidney. 1919. Review of Step by Step Greene. Wikimedia Commons. New York Evening Telegram. November 1, 1919. https://commons.wikimedia.org/wiki/File:Step_by_step_greene.jpg.'}
         />

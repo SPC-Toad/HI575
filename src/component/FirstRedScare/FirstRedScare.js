@@ -25,7 +25,7 @@ function FirstRedScare() {
         <div className='spacer'/>
         <ArtifactDes 
           image={deportation}
-          title={'Missent'}
+          title={'Deportation and Objective Secure'}
           description={'As the Palmer Raids unfolded, it became evident that many of those arrested were not affiliated with any radical organization. In fact, some were American citizens who were arrested without warrants. This led to a significant backlash against the violations of civil liberties. The figure illustrates the deportation process, revealing the targets of these actions. While these measures did mitigate the perceived threat to American ideology and public safety, they also resulted in the removal of falsely accused individuals from the U.S. This underscores the complex and far-reaching impacts of the First Red Scare on both government policies and societal norms. It also highlights the tension between the value of national security and individual rights.'}
           citation={'“Missent | History Teaching Institute.” n.d. Hti.osu.edu. https://hti.osu.edu/opper/lesson-plans/the-red-scare/images/missent.'}
         />
