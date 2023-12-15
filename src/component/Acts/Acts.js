@@ -30,7 +30,7 @@ function Acts() {
         <ArtifactDes 
           image={Espionage1917}
           title={'Now For A Round-Up'}
-          description={<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The cartoon from 1918 by William Allen Rogers depicts the U.S. government targeting “traitors”, “spies”, “Industrial Workers of the World (IWW)”, anarchists, and foreign and domestic enemies. By establishing the Espionage Act of 1917 and the Sedition Act of 1918, the U.S. government filtered out any threat to the government and nation to punish them lawfully. Since the developmental stages of the First Red Scare, the U.S. government was aware of rise of national threat and did not take any threat on American ideology lightly.</p>}
+          description={<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The cartoon from 1918 by William Allen Rogers depicts the U.S. government targeting “traitors”, “spies”, “Industrial Workers of the World (IWW)”, anarchists, and foreign and domestic enemies. By establishing the Espionage Act of 1917 and the Sedition Act of 1918, the U.S. government filtered out any threat to the government and nation to punish them lawfully. Since the developmental stages of the First Red Scare, the U.S. government recognized the growing national threats and didn't underestimate any challenge to American ideology.</p>}
           citation={'“Now for a Round-up / W.A. Rogers.” n.d. Library of Congress, Washington, D.C. 20540 USA. Accessed December 1, 2023. https://www.loc.gov/item/2010717793.'}
         />
       </div>
